@@ -15,7 +15,7 @@ Quick start
 Prerequisites
 - Python 3.8+
 - pip
-- Optional: Jupyter, matplotlib, pandas, numpy
+- Optional: Jupyter, matplotlib, pandas, numpy,Mysql,Tkinter(GUI)
 
 Install
 1. Clone the repo:
